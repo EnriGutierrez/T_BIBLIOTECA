@@ -10,9 +10,6 @@
 </head>
 <body>
   <p class="h1">Librería</p>
-  <p class="h1">prueba</p>
-
-
 
   <h2>Listado de libros</h2>
   <table class="table"  border="1">
