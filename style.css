@@ -1,0 +1,30 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  
+  margin: 0;
+  padding: 0;
+  
+}
+ p{
+  background-color: rgb(141, 141, 236);
+  text-align: center;
+  
+ }
+
+ h2{
+  color: #622424;
+  text-decoration:overline;
+}
+form {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #8592847e;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+
